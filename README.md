@@ -45,7 +45,7 @@ This project demonstrates a simple integration of Langchain with Streamlit. It p
    streamlit run ./localama.py
 
 ---
-##Usage
+## Usage
 
 1. **Run the Applications:** Ensure both Streamlit applications are running on localhost:8501.
 2. **Interact via Streamlit:** Open the Streamlit app in your browser at the URL shown in the terminal (usually http://localhost:8501).
@@ -53,14 +53,14 @@ This project demonstrates a simple integration of Langchain with Streamlit. It p
 
 ---
 
-##File Structure
+## File Structure
 
 -MultipleFiles/app.py: Streamlit app for OpenAI GPT-3.5 Turbo integration.
 -MultipleFiles/localama.py: Streamlit app for Ollama LLaMA2 integration.
 
 ---
 
-##Notes
+## Notes
 
 -Ensure that the OpenAI and Langchain API keys are valid and active.
 -Customize prompt templates in app.py and localama.py as needed.
