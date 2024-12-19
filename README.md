@@ -55,16 +55,16 @@ This project demonstrates a simple integration of Langchain with Streamlit. It p
 
 ## File Structure
 
--MultipleFiles/app.py: Streamlit app for OpenAI GPT-3.5 Turbo integration.
--MultipleFiles/localama.py: Streamlit app for Ollama LLaMA2 integration.
+- 'MultipleFiles/app.py': Streamlit app for OpenAI GPT-3.5 Turbo integration.
+- 'MultipleFiles/localama.py': Streamlit app for Ollama LLaMA2 integration.
 
 ---
 
 ## Notes
 
--Ensure that the OpenAI and Langchain API keys are valid and active.
--Customize prompt templates in app.py and localama.py as needed.
--Adjust the host and port in the Streamlit commands if necessary.
+- Ensure that the OpenAI and Langchain API keys are valid and active.
+- Customize prompt templates in app.py and localama.py as needed.
+- Adjust the host and port in the Streamlit commands if necessary.
 
 ---
 
